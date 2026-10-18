@@ -1,2 +1,3 @@
 API script is under AIML
-Linear regression collab file: 
+
+Linear regression is the ipynb
